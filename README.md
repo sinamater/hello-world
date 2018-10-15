@@ -1,2 +1,2 @@
 # hello-world
-Testing
+This is for education trainings only
